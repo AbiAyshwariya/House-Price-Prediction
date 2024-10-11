@@ -1,0 +1,7 @@
+sk                # Web framework
+Werkzeug             # Required by Flask
+numpy               # Numerical operations
+pandas               # Data manipulation and analysis
+scikit-learn       # Machine learning library
+matplotlib           # For plotting and visualizations
+flask-cors          # For handling Cross-Origin Resource Sharing (CORS)
